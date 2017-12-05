@@ -8,7 +8,7 @@
 如果你怕screen被杀掉，你可以将脚本放置于cron定时任务中，每天执行一次即可。
 这是一个比较简陋的监控程序，希望有dalao能完善下。<br>
 感谢suppig大大写的gost转发。
-##### Centos安装教程
+##### Centos和Debian安装教程
 需先将脚本程序放置于服务器内然后运行下列命令即可
 ```
 yum -y install screen
