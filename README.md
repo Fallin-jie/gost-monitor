@@ -12,6 +12,8 @@
 需先将脚本程序放置于服务器内然后运行下列命令即可
 ```
 yum -y install screen
+git clone https://github.com/Fallin-jie/gost-monitor.git
+cd gost-monitor
 bash gost.sh
 bash gostyj.sh
 ```
