@@ -14,13 +14,5 @@
 yum -y install screen
 git clone https://github.com/Fallin-jie/gost-monitor.git
 cd gost-monitor
-bash gost.sh
-bash gostyj.sh
-```
-
-##### Debian安装教程
-```
-apt-get install screen
-bash gost.sh
-bash gostyj.sh
+bash monitor.sh
 ```
