@@ -9,7 +9,7 @@
 这是一个比较简陋的监控程序，希望有dalao能完善下。<br>
 感谢suppig大大写的gost转发。
 ##### Centos和Debian安装教程
-需先将脚本程序放置于服务器内然后运行下列命令即可
+在服务器内然后运行下列命令即可安装
 ```
 git clone https://github.com/Fallin-jie/gost-monitor.git
 cd gost-monitor
