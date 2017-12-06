@@ -11,6 +11,7 @@
 ##### Centos和Debian安装教程
 在服务器内然后运行下列命令即可安装
 ```
+yum -y install git
 git clone https://github.com/Fallin-jie/gost-monitor.git
 cd gost-monitor
 bash monitor.sh
